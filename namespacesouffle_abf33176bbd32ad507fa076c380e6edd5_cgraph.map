@@ -1,0 +1,8 @@
+<map id="souffle::getNumberOfHeights" name="souffle::getNumberOfHeights">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="272,5,471,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="268,57,475,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="296,122,447,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_relation.html#ae2a51c145e9efc64741aaaea2cae7899" title="Get number of height parameters. " alt="" coords="265,187,477,229"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="557,64,656,91"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="525,195,688,221"/>
+</map>

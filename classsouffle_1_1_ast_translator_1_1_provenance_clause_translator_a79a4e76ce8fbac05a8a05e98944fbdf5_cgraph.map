@@ -1,0 +1,10 @@
+<map id="souffle::AstTranslator::ProvenanceClauseTranslator::createOperation" name="souffle::AstTranslator::ProvenanceClauseTranslator::createOperation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_clause.html#a7c1b301887468c1b8ceb1655f5ca51f1" title="Obtains a copy of the internally maintained body literals. " alt="" coords="305,31,443,73"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#abf33176bbd32ad507fa076c380e6edd5" title="Returns the number of height parameters of the relation referenced by the given atom. " alt="" coords="268,97,480,124"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="535,5,733,32"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="531,57,737,98"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="559,122,709,163"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_relation.html#ae2a51c145e9efc64741aaaea2cae7899" title="Get number of height parameters. " alt="" coords="528,187,740,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="820,64,919,91"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="788,195,951,221"/>
+</map>

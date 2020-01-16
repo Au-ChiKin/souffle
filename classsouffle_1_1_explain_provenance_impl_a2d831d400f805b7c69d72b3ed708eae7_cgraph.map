@@ -1,0 +1,5 @@
+<map id="souffle::ExplainProvenanceImpl::printRelationOutput" name="souffle::ExplainProvenanceImpl::printRelationOutput">
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation.html#ace85459c48afde83506ec68c7d1cee71" title="souffle::Relation::\lgetNumberOfHeights" alt="" coords="277,5,437,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_souffle_program.html#a90cd5579baa81512a0137fac420a43e0" title="Get the symbol table of the program. " alt="" coords="270,71,445,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_write_cout_c_s_v_factory.html#a16f861841e9f88426d6141a9ea4bcb19" title="souffle::WriteCoutCSVFactory\l::getWriter" alt="" coords="252,136,463,177"/>
+</map>

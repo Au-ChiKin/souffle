@@ -1,0 +1,13 @@
+<map id="souffle::AstTranslator::ClauseTranslator::createOperation" name="souffle::AstTranslator::ClauseTranslator::createOperation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="838,44,1001,71"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="341,69,479,110"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abf33176bbd32ad507fa076c380e6edd5" title="Returns the number of height parameters of the relation referenced by the given atom. " alt="" coords="304,135,516,161"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="326,221,494,248"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a83a8f4fdc486c20a330570571ec34fb5" title="Return the name of this atom. " alt="" coords="571,164,769,191"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_relation_identifier.html#aa3b2643183274878064e1f2c37c886c2" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="567,215,773,257"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_program.html#a6a4814327ce4603e7e332b21188495e1" title="Find and return the relation in the program given its name. " alt="" coords="595,33,745,74"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_relation.html#ae2a51c145e9efc64741aaaea2cae7899" title="Get number of height parameters. " alt="" coords="564,98,776,139"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="870,223,969,249"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="586,281,754,322"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="824,281,1015,322"/>
+</map>
